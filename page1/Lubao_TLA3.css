@@ -1,0 +1,132 @@
+h1{
+	font-size: 35px;
+}
+table {
+	/* border: 1px solid #b3adad; */
+	border-collapse: collapse;
+	padding: 5px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+
+}
+
+table th {
+	/* border: 1px solid #b3adad; */
+	padding: 5px;
+	/* background: #f0f0f0; */
+	color: #ffffff;
+	height: 100px;
+}
+
+table td {
+	/* border: 1px solid #ffffff00; */
+	text-align: center;
+	padding: 5px;
+	background: #ffffff00;
+	color: #313030;
+}
+
+.options {
+	padding-top: 5%;
+	margin-top: 3%;
+	margin-left: 50%;
+	width: 50%;
+
+
+}
+
+.mainText {
+	margin-top: 10%;
+	margin-left: 5%;
+	font-family: 'Roboto-Thin-100', sans-serif;
+	color: #ffffff;
+}
+.mainText2 {
+	margin-top: 6%;
+	margin-left: 52%;
+	font-family: 'Roboto-Thin-100', sans-serif;
+	color: #ffffff;
+}
+
+.myButton {
+	background-color: #e32d5b;
+	border-radius: 28px;
+	border: 1px solid #e32d5b;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 17px;
+	padding: 12px 31px;
+	text-decoration: none;
+}
+
+.myButton:hover {
+	background-color: #e32d5b;
+}
+
+.myButton:active {
+	position: relative;
+	top: 1px;
+}
+
+
+.dogBackground {
+	margin-top: -2%;
+	height: 800px;
+	background-image: url(firstpage.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.catBackground {
+	margin-top: -2%;
+	height: 800px;
+	background-image: url(aboutus.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.text1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+#text2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+body {
+	background-color: black;
+}
+
+a, a:visited, a:hover, a:active {
+	color: inherit;
+	text-decoration: none;
+}
+.learnMore {
+	background-color: white;
+}
+.dogBox {
+	margin-top: 100px;
+	border-radius: 15px;
+	border: 1px solid black;
+	background-color: black;
+	width: 450px;
+	height: 380px;
+	
+}
+.catBox {
+	margin-top: 100px;
+	border-radius: 15px;
+	margin-left: 10px;
+	border: 1px solid black;
+	background-color: black;
+	width: 450px;
+	height: 380px;
+	
+}
+.footer{
+	margin-left: 30%;
+	margin-top: 13%;
+}

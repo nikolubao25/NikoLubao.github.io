@@ -1,0 +1,18 @@
+body{
+	font-family:  sans-serif;
+}
+h1{
+	text-align: center;
+	margin: 30px 0 px;
+}
+
+.Pics{
+	margin: 60px 60px;
+}
+.Pics img{
+
+	width: 300px;
+	padding: 20px;
+	transition: 1s;
+
+}
